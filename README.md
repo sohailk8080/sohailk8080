@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sohail Khan
-- 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning from leaders
+- 👀 I’m an SDET.
+- 🌱 I’m currently learning from leaders and test automation guru's.
 - 💞️ I like Java a lot
-- 📫 I love to crash apps!!
+- 📫 I prefer quality over quantity!!
 
 <!---
 sohailk8080/sohailk8080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
