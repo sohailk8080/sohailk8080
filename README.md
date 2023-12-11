@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sohail Khan
 - 👀 I’m an SDET.
-- 🌱 I’m currently learning from leaders and test automation guru's.
 - 💞️ I like Java a lot
 - 📫 I prefer quality over quantity!!
 
