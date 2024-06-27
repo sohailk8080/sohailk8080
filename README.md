@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sohail Khan
-- 👀 I’m an SDET, holding 7+ years of experience
-- 💞️ Java is my first love
+- 👀 I’m an SDET, holding 8+ years of experience
+- 💞️ Love for JAVA is infinite.
 - 📫 Quality over Quantity!!
 
 <!---
